@@ -6,7 +6,10 @@ https://www.youtube.com/watch?v=UYgyRArKDEs&list=PLFCB5Dp81iNV_inzM-R9AKkZZlePCZ
 ## Pseudo code was utilized from these websites:
 
 https://www.geeksforgeeks.org/machine-learning/monte-carlo-tree-search-mcts-in-machine-learning/
+
 https://www.geeksforgeeks.org/dsa/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+
 https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
+
 https://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves
 
