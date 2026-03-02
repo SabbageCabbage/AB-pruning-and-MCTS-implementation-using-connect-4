@@ -1,5 +1,5 @@
 # AB-pruning-and-MCTS-implementation-using-connect-4
-For my intro to AI Systems class
+For my intro to AI Systems class, MTCS is a bit iffy, currently working on that, may get better may not, we shall see,,,,,,,
 ## Heavily inspired by Keith Galli's video series which y'all can check out here:
 https://www.youtube.com/watch?v=UYgyRArKDEs&list=PLFCB5Dp81iNV_inzM-R9AKkZZlePCZdtV&pp=0gcJCbUEOCosWNin
 
