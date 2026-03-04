@@ -1,5 +1,5 @@
 # AB-pruning-and-MCTS-implementation-using-connect-4
-For my intro to AI Systems class, MTCS is a bit iffy, currently working on that, may get better may not, we shall see,,,,,,, (update, it will get better, it's a requirement on the assignment, will have an additional playout option soon.....)
+For my intro to AI Systems class, MTCS has two playouts, for random 750 simulations will be your sweet spot, for the "smarter" version test the 250-300 range out if you want adequate response time
 ## Heavily inspired by Keith Galli's video series which y'all can check out here:
 https://www.youtube.com/watch?v=UYgyRArKDEs&list=PLFCB5Dp81iNV_inzM-R9AKkZZlePCZdtV&pp=0gcJCbUEOCosWNin
 
